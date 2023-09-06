@@ -1,4 +1,4 @@
 # MASIH
 
-Navn: Masih Kabiri
+Navn: Masih 
 Mail: cph-mk330@cphbusiness.dk
